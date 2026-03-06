@@ -118,15 +118,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="4951937056108121038" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\4951937056108121038.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="4951937056108121039" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\4951937056108121039.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="4951937056108121040" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\4951937056108121040.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="accounts-payable-icon-design-free-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\accounts-payable-icon-design-free-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -136,47 +127,8 @@
   <data name="banco" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\banco.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="caja cerrada" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\caja cerrada.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="email-icon-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\email-icon-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flat-isometric-illustration-concept-of-man-sending-email-over-the-globe-free-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\flat-isometric-illustration-concept-of-man-sending-email-over-the-globe-free-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fondo azul" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fondo azul.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="globe-with-mail-illustration-free-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\globe-with-mail-illustration-free-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="maestro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\maestro.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="mail-email-icon-template-black-color-editable-mail-email-icon-symbol-flat-illustration-for-graphic-and-web-design-free-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mail-email-icon-template-black-color-editable-mail-email-icon-symbol-flat-illustration-for-graphic-and-web-design-free-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="mail-with-calendar-illustration-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mail-with-calendar-illustration-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="parametros" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\parametros.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sale-line-icon-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sale-line-icon-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="salir" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\salir.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="transacciones" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\transacciones.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="user-profile-account-or-contacts-silhouette-icon-isolated-on-white-background-free-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\user-profile-account-or-contacts-silhouette-icon-isolated-on-white-background-free-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ventas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ventas.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="776826" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\776826.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -193,40 +145,13 @@
   <data name="10650185" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\10650185.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="caja de madera abierta" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\caja de madera abierta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Captura_de_pantalla_2026-02-20_170952-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Captura_de_pantalla_2026-02-20_170952-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ChatGPT Image 17 feb 2026, 05_11_11 p.m." type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ChatGPT Image 17 feb 2026, 05_11_11 p.m..png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="contabilidad" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\contabilidad.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flat-isometric-illustration-concept-of-man-sending-email-over-the-globe-free-vector-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\flat-isometric-illustration-concept-of-man-sending-email-over-the-globe-free-vector-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="inventario" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\inventario.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="opciones" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\opciones.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="parametro" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\parametro.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="pngtree-company-line-icon-png-image_9137749" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-company-line-icon-png-image_9137749.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="recursos" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\recursos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="reporte" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\reporte.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="seguridad" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\seguridad.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

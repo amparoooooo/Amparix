@@ -93,36 +93,6 @@ namespace Amparix.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _4951937056108121038 {
-            get {
-                object obj = ResourceManager.GetObject("4951937056108121038", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _4951937056108121039 {
-            get {
-                object obj = ResourceManager.GetObject("4951937056108121039", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _4951937056108121040 {
-            get {
-                object obj = ResourceManager.GetObject("4951937056108121040", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap _776826 {
             get {
                 object obj = ResourceManager.GetObject("776826", resourceCulture);
@@ -173,101 +143,9 @@ namespace Amparix.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap caja_cerrada {
-            get {
-                object obj = ResourceManager.GetObject("caja cerrada", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap caja_de_madera_abierta {
-            get {
-                object obj = ResourceManager.GetObject("caja de madera abierta", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Captura_de_pantalla_2026_02_20_170952_removebg_preview {
-            get {
-                object obj = ResourceManager.GetObject("Captura_de_pantalla_2026-02-20_170952-removebg-preview", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ChatGPT_Image_17_feb_2026__05_11_11_p_m_ {
-            get {
-                object obj = ResourceManager.GetObject("ChatGPT Image 17 feb 2026, 05_11_11 p.m.", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap contabilidad {
             get {
                 object obj = ResourceManager.GetObject("contabilidad", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap email_icon_vector {
-            get {
-                object obj = ResourceManager.GetObject("email-icon-vector", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap flat_isometric_illustration_concept_of_man_sending_email_over_the_globe_free_vector {
-            get {
-                object obj = ResourceManager.GetObject("flat-isometric-illustration-concept-of-man-sending-email-over-the-globe-free-vect" +
-                        "or", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap flat_isometric_illustration_concept_of_man_sending_email_over_the_globe_free_vector_removebg_preview {
-            get {
-                object obj = ResourceManager.GetObject("flat-isometric-illustration-concept-of-man-sending-email-over-the-globe-free-vect" +
-                        "or-removebg-preview", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap fondo_azul {
-            get {
-                object obj = ResourceManager.GetObject("fondo azul", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap globe_with_mail_illustration_free_vector {
-            get {
-                object obj = ResourceManager.GetObject("globe-with-mail-illustration-free-vector", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -285,130 +163,9 @@ namespace Amparix.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap maestro {
-            get {
-                object obj = ResourceManager.GetObject("maestro", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap mail_email_icon_template_black_color_editable_mail_email_icon_symbol_flat_illustration_for_graphic_and_web_design_free_vector {
-            get {
-                object obj = ResourceManager.GetObject("mail-email-icon-template-black-color-editable-mail-email-icon-symbol-flat-illustr" +
-                        "ation-for-graphic-and-web-design-free-vector", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap mail_with_calendar_illustration_vector {
-            get {
-                object obj = ResourceManager.GetObject("mail-with-calendar-illustration-vector", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap opciones {
-            get {
-                object obj = ResourceManager.GetObject("opciones", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap parametro {
-            get {
-                object obj = ResourceManager.GetObject("parametro", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap parametros {
-            get {
-                object obj = ResourceManager.GetObject("parametros", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap pngtree_company_line_icon_png_image_9137749 {
             get {
                 object obj = ResourceManager.GetObject("pngtree-company-line-icon-png-image_9137749", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap recursos {
-            get {
-                object obj = ResourceManager.GetObject("recursos", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap reporte {
-            get {
-                object obj = ResourceManager.GetObject("reporte", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap sale_line_icon_vector {
-            get {
-                object obj = ResourceManager.GetObject("sale-line-icon-vector", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap salir {
-            get {
-                object obj = ResourceManager.GetObject("salir", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap seguridad {
-            get {
-                object obj = ResourceManager.GetObject("seguridad", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap transacciones {
-            get {
-                object obj = ResourceManager.GetObject("transacciones", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -420,16 +177,6 @@ namespace Amparix.Properties {
             get {
                 object obj = ResourceManager.GetObject("user-profile-account-or-contacts-silhouette-icon-isolated-on-white-background-fre" +
                         "e-vector", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ventas {
-            get {
-                object obj = ResourceManager.GetObject("ventas", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
